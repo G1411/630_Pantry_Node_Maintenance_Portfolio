@@ -8,7 +8,7 @@ Gargi Ghadigaonkar's Maintenance Portfolio for PantryNode project for CSCI630
 
 | Type       | Link                     | Notes                                      |
 |------------|--------------------------|--------------------------------------------|
-
+| Code Review | https://github.com/ChicoState/PantryNode/pull/75 | Reviewed a peer's pull request |
 
 
 ### Timeline
