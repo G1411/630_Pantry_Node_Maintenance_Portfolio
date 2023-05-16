@@ -10,7 +10,7 @@ Gargi Ghadigaonkar's Maintenance Portfolio for PantryNode project for CSCI630
 |------------|--------------------------|--------------------------------------------|
 | Code Review | https://github.com/ChicoState/PantryNode/pull/75 | Reviewed a peer's pull request |
 | Code Review | https://github.com/ChicoState/PantryNode/pull/166 | Reviewed the frontend placeholder tests added by my peers |
-| Pair Programming | [ChicoState/PantryNode#217](https://github.com/ChicoState/PantryNode/pull/179) | Wored alongside a peer to implement Coverage report analysis and changes to readme. Pushed commits ot main regarding the same|
+| Pair Programming | [ChicoState/PantryNode#217](https://github.com/ChicoState/PantryNode/pull/179) | Worked alongside a peer to implement Coverage report analysis and changes to readme. Pushed commits ot main regarding the same|
 | Discussion | https://github.com/ChicoState/PantryNode/pull/179 | Contributed to discussions regarding the coverage report generation |
 | Discussion | https://github.com/ChicoState/PantryNode/issues/194 | Chewed over how to handle this issue with my teammates |
 | Code Review | [ChicoState/PantryNode#230](https://github.com/ChicoState/PantryNode/pull/244) | Reviewed a peer's contribution |
